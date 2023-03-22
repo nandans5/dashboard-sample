@@ -1,0 +1,22 @@
+.sidebar-heading {
+  text-align: center;
+  font-family: "Arial Black";
+  padding-top: 20px;
+  font-size: 170%;
+  padding-bottom: 50px;
+  color: #32aaff;
+}
+
+.center {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.sidebar-items {
+  color: white;
+  padding-top: 40px;
+}
+
+.dashboard {
+  color: white;
+}
